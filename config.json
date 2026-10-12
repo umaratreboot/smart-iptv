@@ -1,0 +1,14 @@
+{
+  "playlist_sources": [
+    {"url": "https://iptv-org.github.io/iptv/countries/pk.m3u", "group_prefix": "Pakistan", "max_entries": 65},
+    {"url": "https://iptv-org.github.io/iptv/countries/in.m3u", "group_prefix": "India", "max_entries": 65},
+    {"url": "https://iptv-org.github.io/iptv/languages/eng.m3u", "group_prefix": "English", "max_entries": 70}
+  ],
+  "custom_entries_file": "custom_entries.m3u",
+  "epg_urls": [],
+  "epg_auto_discover": true,
+  "epg_max_mb": 18,
+  "failure_threshold": 3,
+  "max_concurrent_checks": 12,
+  "timeout_seconds": 9
+}
