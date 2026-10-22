@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/umaratreboot/smart-iptv/main/output/guide.xml"
-#EXTINF:-1 group-title="Pakistan | News" tvg-id="7News.pk@SD" tvg-logo="https://i.imgur.com/PTl92P5.png",7 News (720p)
-https://sscsott.com/7news/live/index.m3u8
 #EXTINF:-1 group-title="Pakistan | Music" tvg-id="8XM.pk@HD" tvg-logo="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",8XM
 https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 #EXTINF:-1 group-title="Pakistan | News" tvg-id="24NewsHD.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",24 News HD
@@ -19,6 +17,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
 #EXTINF:-1 group-title="Pakistan | News" tvg-id="CapitalTV.pk@SD" tvg-logo="https://i.imgur.com/UxAE5O4.png",Capital TV
 https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
+#EXTINF:-1 group-title="Pakistan | Animation;Kids" tvg-id="CartoonNetwork.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (Pakistan)
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 group-title="Pakistan | Travel" tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png",Discover Pakistan (1080p)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 group-title="Pakistan | News" tvg-id="DunyaNews.pk@SD" tvg-logo="https://i.imgur.com/1PbtW0y.png",Dunya News (720p) [Not 24/7]
@@ -27,30 +27,6 @@ https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 https://falak.rst.ae/index.m3u8
 #EXTINF:-1 group-title="Pakistan | Religious" tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png",Fazal TV (1080p)
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1 group-title="Pakistan | Kids;Religious" tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg",God Stands Kids Club TV
-https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
-#EXTINF:-1 group-title="Pakistan | Kids;Religious" tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg",God Stands Kids Club TV Arabic
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
-#EXTINF:-1 group-title="Pakistan | Kids;Religious" tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 group-title="Pakistan | Kids;Religious" tvg-id="GodStandsKidsClubTV.pk@Urdu" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg",God Stands Kids Club TV Urdu
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
-#EXTINF:-1 group-title="Pakistan | Religious" tvg-id="GodStandsTV.pk@Main" tvg-logo="https://i.imgur.com/EO6cYUI.png",God Stands TV
-https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
-#EXTINF:-1 group-title="Pakistan | Religious" tvg-id="GodStandsTV.pk@Arabic" tvg-logo="https://i.imgur.com/EO6cYUI.png",God Stands TV Arabic
-https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
-#EXTINF:-1 group-title="Pakistan | Religious" tvg-id="GodStandsTV.pk@Chinese" tvg-logo="https://i.imgur.com/EO6cYUI.png",God Stands TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-#EXTINF:-1 group-title="Pakistan | Religious" tvg-id="GodStandsTV.pk@English" tvg-logo="https://i.imgur.com/EO6cYUI.png",God Stands TV English
-https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
-#EXTINF:-1 group-title="Pakistan | Religious" tvg-id="GodStandsTV.pk@Hindi" tvg-logo="https://i.imgur.com/EO6cYUI.png",God Stands TV Hindi
-https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8
-#EXTINF:-1 group-title="Pakistan | Religious" tvg-id="GodStandsTV.pk@Punjabi" tvg-logo="https://i.imgur.com/EO6cYUI.png",God Stands TV Punjabi
-https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
-#EXTINF:-1 group-title="Pakistan | Religious" tvg-id="GodStandsTV.pk@Tagalog" tvg-logo="https://i.imgur.com/EO6cYUI.png",God Stands TV Tagalog
-https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
-#EXTINF:-1 group-title="Pakistan | Religious" tvg-id="GodStandsTV.pk@Urdu" tvg-logo="https://i.imgur.com/EO6cYUI.png",God Stands TV Urdu
-https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
 #EXTINF:-1 group-title="Pakistan | Religious" tvg-id="GraceNetwork.pk@SD" tvg-logo="https://i.imgur.com/QSaZPJ4.png",Grace Network (720p)
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 #EXTINF:-1 group-title="Pakistan | Entertainment" tvg-id="HumTV.pk@HD" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png",Hum TV (720p)
@@ -179,8 +155,6 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
 #EXTINF:-1 group-title="India | Religious" tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png",Arputhar Yesu TV (576p)
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
-#EXTINF:-1 group-title="India | Undefined" tvg-id="AryanTVNational.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png",Aryan TV National (576p)
-https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="AsianNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png",Asian News (1080p)
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 group-title="India | Entertainment" tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png",Asianet HD (1080p)
