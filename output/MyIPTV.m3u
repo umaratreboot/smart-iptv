@@ -71,8 +71,8 @@ http://tvsen7.aynascope.net/MadaniTV/index.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="4SiDESTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
-#EXTINF:-1 group-title="India | News" tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",4TV News (576p)
-https://cdn.pishow.tv/ott/live/1007/master.m3u8
+#EXTINF:-1 group-title="India | News" tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",like Gecko) Chrome/147.0.0.0 Safari/537.36' group-title='News',4TV News (576p)
+https://fta.ektv.in/live/647/master.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png",6 TV Telugu (576p)
 https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 group-title="India | Music" tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png",7S Music (576p)
@@ -143,6 +143,8 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="ABPNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540",ABP News (1080p)
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+#EXTINF:-1 group-title="India | News" tvg-id="ABPSanjha.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Sanjha.png",like Gecko) Chrome/147.0.0.0 Safari/537.36' group-title='News',ABP Sanjha (576p)
+https://fta.ektv.in/live/641/master.m3u8
 #EXTINF:-1 group-title="India | Religious" tvg-id="AdhyatmTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adhyatam_TV.png",Adhyatm TV (720p)
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="AKDCalcuttaNews.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png",AKD Calcutta News (1080p)
@@ -183,10 +185,6 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 group-title="India | Entertainment" tvg-id="AnmolTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",Anmol TV (720p)
 https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
-#EXTINF:-1 group-title="India | Entertainment" tvg-id="ApnaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/IM4D8Wz.png",Apna Punjab TV (720p)
-https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-#EXTINF:-1 group-title="India | News" tvg-id="ArgusNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png",Argus News (576p)
-https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
 #EXTINF:-1 group-title="English | Movies" tvg-id="00sReplay.us@SD" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 group-title="English | Entertainment;Family;General" tvg-id="1KZNTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg",1KZN TV (576p)
@@ -311,6 +309,12 @@ https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
 https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
 #EXTINF:-1 group-title="English | General" tvg-id="ABC.us@WISNTV" tvg-logo="https://i.imgur.com/pvXZ8DX.png",ABC WISN-TV (720p)
 https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
+#EXTINF:-1 group-title="India | News" tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",4TV News (576p)
+https://cdn.pishow.tv/ott/live/1007/master.m3u8
+#EXTINF:-1 group-title="India | Entertainment" tvg-id="ApnaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/IM4D8Wz.png",Apna Punjab TV (720p)
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+#EXTINF:-1 group-title="India | News" tvg-id="ArgusNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png",Argus News (576p)
+https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
 #EXTINF:-1 group-title="India | Religious" tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png",Arputhar Yesu TV (576p)
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="AsianNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png",Asian News (1080p)
