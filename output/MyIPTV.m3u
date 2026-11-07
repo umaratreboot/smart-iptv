@@ -103,8 +103,8 @@ https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="99TV.in@SD" tvg-logo="https://i.imgur.com/dZA4gel.png",99TV (720p)
 https://cdn.pishow.tv/ott/live/1211/master.m3u8
-#EXTINF:-1 group-title="India | Movies" tvg-id="AndTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",&TV (720p)
-https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+#EXTINF:-1 group-title="India | Movies" tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",&pictures HD (1080p)
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8
 #EXTINF:-1 group-title="India | Religious" tvg-id="AadinathTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png",Aadinath TV (576p)
 https://cdn.pishow.tv/ott/live/252/master.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="AagaazTimes.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png",Aagaaz Times (1080p)
@@ -177,8 +177,8 @@ https://live.legitpro.co.in/anandtv/index.m3u8
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 #EXTINF:-1 group-title="India | Religious" tvg-id="AnandpurLive.in@HD" tvg-logo="https://papaji.freetvindia.com/media/Anandpur_Live.png",Anandpur Live (720p)
 https://mumt05.tangotv.in/87NeALx2ANANDPURLIVE/index.m3u8
-#EXTINF:-1 group-title="India | News" tvg-id="ANBNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png",ANB News (720p)
-https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
+#EXTINF:-1 group-title="India | News" tvg-id="ANBNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png",ANB News (1080p)
+https://stream.ottlive.co.in/anb/index.m3u8
 #EXTINF:-1 group-title="India | Religious" tvg-id="AngelTV.in@India" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV (1080p)
 https://cdn.pishow.tv/ott/live/453/master.m3u8
 #EXTINF:-1 group-title="India | Documentary" tvg-id="AnimalPlanet.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",Animal Planet (India) (720p)
@@ -285,8 +285,6 @@ https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
 #EXTINF:-1 group-title="English | General" tvg-id="A2iTV.it@SD" tvg-logo="https://i.imgur.com/YlDFir7.jpg",A2i TV (1080p)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="English | Entertainment" tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",A&E (720p)
-http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 group-title="English | News" tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 group-title="English | General" tvg-id="ABC.us@KAAL" tvg-logo="https://i.imgur.com/pvXZ8DX.png",ABC KAAL (1080p)
@@ -319,6 +317,10 @@ https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
 https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
 #EXTINF:-1 group-title="English | General" tvg-id="ABC.us@WISNTV" tvg-logo="https://i.imgur.com/pvXZ8DX.png",ABC WISN-TV (720p)
 https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
+#EXTINF:-1 group-title="India | Movies" tvg-id="AndTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",&TV (720p)
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+#EXTINF:-1 group-title="India | News" tvg-id="ANBNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png",ANB News (720p)
+https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png",6 TV Telugu (576p)
 https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 group-title="India | Religious" tvg-id="Aastha.in@SD" tvg-logo="https://i.imgur.com/IqgrV92.png",like Gecko) Chrome/147.0.0.0 Safari/537.36' group-title='Religious',Aastha (576p)
