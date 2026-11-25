@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/umaratreboot/smart-iptv/main/output/guide.xml"
-#EXTINF:-1 group-title="Pakistan | Music" tvg-id="8XM.pk@HD" tvg-logo="https://i.imgur.com/KLrfKRn.png",8XM
-https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 #EXTINF:-1 group-title="Pakistan | News" tvg-id="24NewsHD.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",24 News HD
 https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
 #EXTINF:-1 group-title="Pakistan | News" tvg-id="92NewsHD.pk@SD" tvg-logo="https://i.imgur.com/eqKrL9S.png",92 News HD (720p)
@@ -215,6 +213,8 @@ https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 #EXTINF:-1 group-title="English | Undefined" tvg-id="3TV.us@KTVK" tvg-logo="https://i.imgur.com/kQ1x2yK.png",3TV (1080p) [Geo-blocked]
 https://amg00312-amg00312c59-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c59-amgplt0022/playlist.m3u8
+#EXTINF:-1 group-title="English | General" tvg-id="316Channel.sa@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/3.16%20Channel.jpeg",3.16 Channel (1080p)
+https://316hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="English | Series" tvg-id="5Cops.us@UK" tvg-logo="https://i.imgur.com/QFPRaXK.png",5 Cops
 https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 #EXTINF:-1 group-title="English | News" tvg-id="6PR.au@SD" tvg-logo="https://i.imgur.com/Q9iCxg1.png",6PR (1080p)
