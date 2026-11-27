@@ -3,6 +3,8 @@
 https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
 #EXTINF:-1 group-title="Pakistan | News" tvg-id="92NewsHD.pk@SD" tvg-logo="https://i.imgur.com/eqKrL9S.png",92 News HD (720p)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan | News" tvg-id="365News.pk@SD" tvg-logo="https://i.imgur.com/8I6PWof.png",365 News
+https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
 #EXTINF:-1 group-title="Pakistan | Religious" tvg-id="ABNUrdu.us@SD" tvg-logo="https://i.imgur.com/Y9ScPIl.png",ABN Urdu (540p)
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1 group-title="Pakistan | General" tvg-id="aurLifeHD.pk@SD" tvg-logo="https://i.imgur.com/GfWLn3O.jpg",aurLife HD (614p)
@@ -165,14 +167,16 @@ https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 https://mumt05.tangotv.in/87NeALx2ANANDPURLIVE/index.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="ANBNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png",ANB News (1080p)
 https://stream.ottlive.co.in/anb/index.m3u8
-#EXTINF:-1 group-title="India | Religious" tvg-id="AngelTV.in@India" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV (1080p)
-https://cdn.pishow.tv/ott/live/453/master.m3u8
 #EXTINF:-1 group-title="India | Animation" tvg-id="AnimaxAsia.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",Animax Asia India (1080p) [Geo-blocked]
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="AnjaliTV.in@SD" tvg-logo="https://play-lh.googleusercontent.com/VWNeFRQ9uppvZmcO_qVulTHYC8hXd92d3D9Yqbx_UrlTl4trL9AxwmqCrsXmGfN8VS9A_T185BwdVY5O-TTQly4=w1200",Anjali TV (720p)
 https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8
 #EXTINF:-1 group-title="India | Entertainment" tvg-id="AnjanTV.in@SD" tvg-logo="https://i.imgur.com/sh0yFSf.png",Anjan TV (720p)
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 group-title="India | Movies" tvg-id="AnmolCinema2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",like Gecko) Chrome/154.0.0.0 Safari/537.36' group-title='Movies',Anmol Cinema 2 (576p)
+http://103.175.73.12:8080/live/257/257_0.m3u8
+#EXTINF:-1 group-title="India | Movies" tvg-id="AnmolCinema.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",like Gecko) Chrome/154.0.0.0 Safari/537.36' group-title='Movies',Anmol Cinema (576p)
+http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="APN.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png",APN (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
 #EXTINF:-1 group-title="India | Entertainment" tvg-id="ApnaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/IM4D8Wz.png",Apna Punjab TV (Canada) (720p)
@@ -185,10 +189,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/argusnews/playlist.m3u8
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
 #EXTINF:-1 group-title="India | News" tvg-id="AshwaveegaNews24x7.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png",Ashwaveega News 24x7 (720p)
 https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
-#EXTINF:-1 group-title="India | News" tvg-id="AsianNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png",Asian News (1080p)
-https://stream.ottlive.co.in/asiannews/index.m3u8
-#EXTINF:-1 group-title="India | Entertainment" tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png",Asianet HD (1080p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 group-title="English | Movies" tvg-id="00sReplay.us@SD" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 group-title="English | Entertainment;Family;General" tvg-id="1KZNTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg",1KZN TV (576p)
@@ -281,6 +281,8 @@ https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 group-title="English | Series" tvg-id="2900Happiness.se@DK" tvg-logo="https://images.pluto.tv/channels/6720bc6cdaad7f000872a6e2/colorLogoPNG.png",2900 Happiness
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
+#EXTINF:-1 group-title="English | Music" tvg-id="A1.ru@SD" tvg-logo="https://i.imgur.com/2pAHdAi.png",A1 (576p)
+http://s7.merlive.am/Amedia1/index.m3u8
 #EXTINF:-1 group-title="English | General" tvg-id="A2iTV.it@SD" tvg-logo="https://i.imgur.com/YlDFir7.jpg",A2i TV (1080p)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="English | News" tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",Abante TV (1080p)
@@ -305,8 +307,16 @@ https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="English | General" tvg-id="ABC.us@KSTPTV" tvg-logo="https://i.imgur.com/pvXZ8DX.png",ABC KSTP-TV (1080p)
 https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="English | General" tvg-id="ABC.us@KTRKTV" tvg-logo="https://i.imgur.com/pvXZ8DX.png",ABC KTRK-TV (1080p)
+https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="English | General" tvg-id="ABC.us@KXXV" tvg-logo="https://i.imgur.com/pvXZ8DX.png",ABC KXXV (1080p)
 https://amg01438-amg01438c28-vizio-us-10893.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="India | Religious" tvg-id="AngelTV.in@India" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV (1080p)
+https://cdn.pishow.tv/ott/live/453/master.m3u8
+#EXTINF:-1 group-title="India | News" tvg-id="AsianNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png",Asian News (1080p)
+https://stream.ottlive.co.in/asiannews/index.m3u8
+#EXTINF:-1 group-title="India | Entertainment" tvg-id="Asianet.in@HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png",Asianet HD (1080p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 group-title="English | General" tvg-id="ABC.us@WBAYTV" tvg-logo="https://i.imgur.com/pvXZ8DX.png",ABC WBAY-TV (1080p) [Geo-blocked]
 https://amg00312-amg00312c54-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c54-amgplt0022/playlist.m3u8
 #EXTINF:-1 group-title="India | Movies" tvg-id="AsianetMovies.in@SD" tvg-logo="https://i.imgur.com/cps67hs.png",Asianet Movies (396p)
